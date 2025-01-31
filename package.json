@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@govbr-ds/core": "^3.6.1"
+    "@govbr-ds/core": "^3.6.1",
+    "vercel": "^39.4.2"
   }
 }
